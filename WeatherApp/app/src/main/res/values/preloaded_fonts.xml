@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/black_han_sans</item>
+        <item>@font/black_ops_one</item>
+        <item>@font/bungee_inline</item>
+        <item>@font/darker_grotesque_light</item>
+        <item>@font/eczar</item>
+        <item>@font/expletus_sans</item>
+        <item>@font/manrope_semibold</item>
+    </array>
+</resources>
